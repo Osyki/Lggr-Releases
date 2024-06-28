@@ -1,3 +1,3 @@
 # Lggr
 
-Lggr will be released here for public download.
+Lggr executables have been made private now that the course is over.
